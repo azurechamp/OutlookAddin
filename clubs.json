@@ -1,0 +1,27 @@
+[
+{ 
+  "club": "Manchester United F.C.",
+  "id": "manchester-united",
+  "league": "PL",
+  "image": "https://seeklogo.com/images/M/manchester-united-logo-F14DA1FCCD-seeklogo.com.png"
+  
+  },{ 
+  "club": "Liverpool F.C.",
+  "id": "liverpool",
+  "league": "PL",
+  "image": "https://seeklogo.com/images/L/liverpool-fc-logo-027452BE2B-seeklogo.com.jpg"
+  
+  },{ 
+  "club": "Chelsea F.C.",
+  "id": "chelsea",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cc/Chelsea_FC.svg/1024px-Chelsea_FC.svg.png"
+  
+  },{ 
+  "club": "Arsenal F.C.",
+  "id": "arsenal",
+  "league": "PL",
+  "image": "https://s-media-cache-ak0.pinimg.com/originals/3f/9c/1b/3f9c1b9402d0f7d4b6fe5199f95ed319.png"
+  
+  }
+]
