@@ -48,6 +48,26 @@
   "id": "burnley",
   "league": "PL",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Burnley_FC_badge.png/200px-Burnley_FC_badge.png"
+  },{ 
+  "club": "Crystal Palace F.C.",
+  "id": "crystal-palace",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/0c/Crystal_Palace_FC_logo.svg/170px-Crystal_Palace_FC_logo.svg.png"
+  },{ 
+  "club": "Everton F.C.",
+  "id": "everton",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Everton_FC_logo.svg/220px-Everton_FC_logo.svg.png"
+  },{ 
+  "club": "Leicester City F.C.",
+  "id": "leicester-city",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/220px-Leicester_City_crest.svg.png"
+  },{ 
+  "club": "Leicester City F.C.",
+  "id": "leicester-city",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2d/Leicester_City_crest.svg/220px-Leicester_City_crest.svg.png"
   }
   
 ]
