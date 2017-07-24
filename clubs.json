@@ -23,5 +23,10 @@
   "league": "PL",
   "image": "https://s-media-cache-ak0.pinimg.com/originals/3f/9c/1b/3f9c1b9402d0f7d4b6fe5199f95ed319.png"
   
+  },{ 
+  "club": "Manchester City F.C.",
+  "id": "manchester-city",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png"
   }
 ]
