@@ -28,5 +28,26 @@
   "id": "manchester-city",
   "league": "PL",
   "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/eb/Manchester_City_FC_badge.svg/200px-Manchester_City_FC_badge.svg.png"
+  },{ 
+  "club": "Tottenham Hotspur F.C.",
+  "id": "tottenham-hotspur",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Tottenham_Hotspur.svg/125px-Tottenham_Hotspur.svg.png"
+  },{ 
+  "club": "Watford F.C.",
+  "id": "watford",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e2/Watford.svg/185px-Watford.svg.png"
+  },{ 
+  "club": "AFC Bournemouth",
+  "id": "afc-bournemouth",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/e/e5/AFC_Bournemouth_%282013%29.svg/170px-AFC_Bournemouth_%282013%29.svg.png"
+  },{ 
+  "club": "Burnley F.C.",
+  "id": "burnley",
+  "league": "PL",
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Burnley_FC_badge.png/200px-Burnley_FC_badge.png"
   }
+  
 ]
